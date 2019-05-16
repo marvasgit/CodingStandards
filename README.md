@@ -35,7 +35,7 @@ This is a collection of documents that outline CompanyName culture and developer
 
 ## Process
 
-1. [Pair Programming](PariProgramming.md)
+1. [Pair Programming](PairPrograming.md)
 
 ## Other
 
